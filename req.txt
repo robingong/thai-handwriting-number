@@ -1,0 +1,7 @@
+conda install tensorflow-gpu
+conda install keras
+conda install scikit-learn
+onda install pillow
+
+
+
